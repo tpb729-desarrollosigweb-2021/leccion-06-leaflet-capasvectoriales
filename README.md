@@ -1,5 +1,5 @@
 # Leaflet - capas vectoriales
-[Leaflet](https://leafletjs.com/) es una biblioteca de programación en JavaScript para hacer mapas en la Web. Es de código abierto y fue diseñada para funcionar en una gran variedad de dispositivos, incluyendo móviles (ej. celulares, tabletas). Su funcionalidad puede ser extendida a través de [complementos](https://leafletjs.com/plugins.html). Su primera versión fue publicada en 2011 por Vladimir Agafonkin. Junto con [OpenLayers](https://openlayers.org/) y [Google Maps](https://developers.google.com/maps/documentation), es una de las más bibliotecas más populares para programar mapas en la Web.
+[Leaflet](https://leafletjs.com/) puede manejar tanto capas vectoriales como raster. Aquí se describe el manejo de datos vectoriales mediante la clase GeoJSON.
 
 ## Clases del API de Leaflet
 
