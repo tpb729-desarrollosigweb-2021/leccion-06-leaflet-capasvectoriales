@@ -7,9 +7,9 @@
 La clase [GeoJSON](https://leafletjs.com/reference-1.7.1.html#geojson) representa un objeto o un arreglo de objetos GeoJSON, permitiendo su despliegue en un mapa Leaflet.
 
 ## Ejemplo de mapa Leaflet con capas vectoriales
-Haga clic en la imagen para acceder al mapa interactivo.
+Haga clic en la imagen para acceder al mapa interactivo y en el siguiente enlace para acceder a su [código fuente](https://github.com/tpb729-desarrollosigweb-2021/ejemplo-mapa-leaflet-capas-vectoriales).
 
-[![https://github.com/tpb729-desarrollosigweb-2021/ejemplo-mapa-leaflet-capas-vectoriales](img/ejemplo-mapa-leaflet-capas-vectoriales.png)](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-vectoriales/)
+[![](img/ejemplo-mapa-leaflet-capas-vectoriales.png)](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-capas-vectoriales/)
 
 Código HTML, CSS y JavaScript
 
